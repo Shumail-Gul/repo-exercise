@@ -1,0 +1,3 @@
+this is a result file> result.txt
+git status
+echo this is a result file
